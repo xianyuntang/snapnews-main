@@ -1,0 +1,9 @@
+{
+    "host": "192.168.77.78",
+    "database": "news",
+    "username": "news",
+    "password": "1qaz@WSX",
+    "port": "3306",
+    "text_recognition_api_url": "http://192.168.77.78:5002/POST/recognition",
+    "text_localization_api_url": "http://192.168.77.78:5001/POST/localization"
+}
