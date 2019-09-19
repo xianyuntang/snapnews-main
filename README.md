@@ -23,7 +23,7 @@ $ docker run -itd -v /media/storage/images:/media/storage/images --restart=alway
 ````
 
 ### Step 4: modify system setting (optional)
-*get into docker container bash (optional)*
+*get into docker container bash*
 ````
 $ docker run -it <your docker container name> bash
 ````
