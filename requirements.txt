@@ -9,4 +9,4 @@ opencv-python==4.1.1.26
 python-daemon==2.2.3
 requests==2.22.0
 SQLAlchemy==1.3.8
-urllib3==1.25.3
+urllib3==1.26.5
